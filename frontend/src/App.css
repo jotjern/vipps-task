@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+header {
+  color: #FF5B24;
+  height: 102px;
+  align-content: center;
+}
+
+header h1 {
+  padding-left: 130px;
+  margin: 0;
+  transform: translate(0, 30px);
+}
+
+main {
+  background-color: #FFF3EC;
+  height: 800px;
+  padding: 80px 130px;
+}
+
+main h1 {
+  font-size: 48px;
+  color: #FF5B24;
+}
